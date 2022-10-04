@@ -20,7 +20,7 @@ The following table points to the on-going replication efforts.
 | [15]    F. Agosta et al., “The topography of brain damage at different stages of Parkinson’s disease,” Human brain mapping, vol. 34, no. 11, pp. 2798–2807, 2013. | @glatard | https://github.com/LivingPark-MRI/agosta-etal
 | [21]    L. Chougar et al., “Automated Categorization of Parkinsonian Syndromes Using Magnetic Resonance Imaging in a Clinical Setting,” Movement Disorders, vol. 36, no. 2, pp. 460–470, 2021. | @mohanadarafe | https://github.com/LivingPark-MRI/shu-etal
 | [22]    N. W. Sterling et al., “Stage-dependent loss of cortical gyrification as Parkinson disease ‘unfolds,’” Neurology, vol. 86, no. 12, pp. 1143–1151, 2016. | @rmanaem | https://github.com/LivingPark-MRI/sterling-etal-2016
-| [23]    A. Hanganu et al., “Mild cognitive impairment is linked with faster rate of cortical thinning in patients with Parkinson’s disease longitudinally,” Brain, vol. 137, no. 4, pp. 1120–1129, 2014. | Andrzjej | https://github.com/LivingPark-MRI/hanganu-etal-2014
+| [23]    A. Hanganu et al., “Mild cognitive impairment is linked with faster rate of cortical thinning in patients with Parkinson’s disease longitudinally,” Brain, vol. 137, no. 4, pp. 1120–1129, 2014. | Andrzej | https://github.com/LivingPark-MRI/hanganu-etal-2014
 
 To facilitate the development of these notebooks we develop [livingpark-utils](https://github.com/LivingPark-MRI/livingpark-utils), a collection of functions to help work with PPMI data. We also develop [ppmi-scraper](https://github.com/LivingPark-MRI/ppmi-scraper), a set of utilities to download PPMI study and imaging data. 
 
