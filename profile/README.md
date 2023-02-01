@@ -11,7 +11,7 @@ The following table points to the on-going replication efforts.
 | Reference | Person in charge | Notebook repo |
 |:----------|:----------------:|:--------------|
 | [8] C. Scherfler et al., “White and gray matter abnormalities in idiopathic rapid eye movement sleep behavior disorder: a diffusion-tensor imaging and voxel-based morphometry study,” Annals of neurology, vol. 69, no. 2, pp. 400–407, 2011. | @glatard | https://github.com/LivingPark-MRI/scherfler-etal |
-| [9]    S. Rahayel et al., “Cortical and subcortical gray matter bases of cognitive deficits in REM sleep behavior disorder,” Neurology, vol. 90, no. 20, pp. e1759–e1770, 2018. | TBD | --- |
+| [9]    S. Rahayel et al., “Cortical and subcortical gray matter bases of cognitive deficits in REM sleep behavior disorder,” Neurology, vol. 90, no. 20, pp. e1759–e1770, 2018. | Nigel | --- |
 | [10]    Y. Zeighami et al., “Network structure of brain atrophy in de novo Parkinson’s disease,” elife, vol. 4, p. e08440, 2015. | Niusha | https://github.com/LivingPark-MRI/zeighami-etal-2015|
 | [11]    Y. Zeighami, S.-M. Fereshtehnejad, M. Dadar, D. L. Collins, R. B. Postuma, and A. Dagher, “Assessment of a prognostic MRI biomarker in early de novo Parkinson’s disease,” NeuroImage: Clinical, vol. 24, p. 101986, 2019. | Michelle | [https://github.com/LivingPark-MRI/zeighami-etal-2019](https://github.com/LivingPark-MRI/zeighami-etal-2019)|
 | [12] E. Mak et al., “Baseline and longitudinal grey matter changes in newly diagnosed Parkinson’s disease: ICICLE-PD study,” Brain, vol. 138, no. 10, pp. 2974–2986, 2015. | Chelsie | https://github.com/LivingPark-MRI/mak-etal-2015
