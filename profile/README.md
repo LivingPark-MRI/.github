@@ -9,7 +9,7 @@ We'd love to hear from you! Feel free to reach out by posting an issue in any of
 The following table points to the on-going replication efforts.
 
 | Reference | Person in charge | Notebook | Limitations | External review | Authors feedback | Extension to QPN |
-|:--------------------|:----------|:----------------:|:--------------|:------------|:----------------|:-----------------|:-----------------|
+|:----------|:----------------:|:--------------|:------------|:----------------|:-----------------|:-----------------|
 | [C. Scherfler et al., 2011.](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.22245) | @glatard | [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.org/github/LivingPark-MRI/scherfler-etal/blob/main/scherfler-etal.ipynb) | No major limitation identified | | | |
 | [S. Rahayel et al., 2018.](https://n.neurology.org/content/90/20/e1759.abstract) | @niyonx | [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.org/github/LivingPark-MRI/rahayel-etal/blob/main/rahayel-etal-2018.ipynb) | Sample size in RDB-MCI group | | | |
 | [Y. Zeighami et al., 2015.](https://elifesciences.org/articles/8440) | Niusha | https://github.com/LivingPark-MRI/zeighami-etal-2015| No major limitation identified  || On-going ||
